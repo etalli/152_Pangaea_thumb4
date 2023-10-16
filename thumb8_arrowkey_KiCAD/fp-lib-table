@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/footprint.pretty")(options "")(descr ""))
+  (lib (name "153_Pangaea_thumb_arrowkey")(type "KiCad")(uri "/Users/k/Library/CloudStorage/Dropbox/MyProjects/153_Pangaea_thumb_arrowkey")(options "")(descr ""))
+)
