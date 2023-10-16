@@ -1,0 +1,24 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.11-0)*
+G04 #@! TF.CreationDate,2023-02-07T20:01:24+09:00*
+G04 #@! TF.ProjectId,pangaea-top-thumb-k2_leftcut4keys,70616e67-6165-4612-9d74-6f702d746875,1*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Soldermask,Top*
+G04 #@! TF.FilePolarity,Negative*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.11-0)) date 2023-02-07 20:01:24*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,2.350000*%
+G04 APERTURE END LIST*
+D10*
+X55936326Y-41735945D03*
+X94036323Y-46101570D03*
+X94036275Y-27051806D03*
+X36886323Y-27051573D03*
+X74986325Y-41735943D03*
+X55936329Y-41735947D03*
+X74986328Y-41735945D03*
+M02*
